@@ -1,6 +1,9 @@
-// puzle.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
-
+/*
+	Zadanie z platformy usaco.org
+	Nazwa zadania: Herdle
+	Link do zadania: http://usaco.org/index.php?page=viewproblem2&cpid=1179
+	Wynik: 100/100
+*/
 #include <iostream>
 #include <map>
 using namespace std;
