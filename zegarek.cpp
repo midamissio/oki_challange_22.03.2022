@@ -1,3 +1,9 @@
+/*
+    Zadanie z platformy szkopul.edu.pl
+    Nazwa zadanie: Zegarek
+    Link do zadania: https://szkopul.edu.pl/problemset/problem/A859_vuqciUBllN7vf9w2NYL/site/?key=statement
+    Wynik 100/100
+*/
 #include <iostream>
 #include <string>
 using namespace std;
