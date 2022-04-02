@@ -1,5 +1,5 @@
 /*
-	Zadanie z platformy usaco
+	Zadanie z platformy usaco.com
 	Nazwa zadania: Herdle
 	Link do zadania: http://usaco.org/index.php?page=viewproblem2&cpid=1179
 	Wynik: 100/100
