@@ -1,5 +1,5 @@
 /*
-    Zadanie z platformy szkopul.edu.pl
+    Zadanie z platformy szkopul.edu
     Nazwa zadanie: Zegarek
     Link do zadania: https://szkopul.edu.pl/problemset/problem/A859_vuqciUBllN7vf9w2NYL/site/?key=statement
     Wynik 100/100
