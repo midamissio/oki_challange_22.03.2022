@@ -1,5 +1,5 @@
 /*
-    Zadanie z platformy codeforces.com
+    Zadanie z platformy codeforces
     Nazwa zadania: Boy or Girl
     Link do zadania: https://codeforces.com/problemset/problem/236/A
     Wynik: 100/100
